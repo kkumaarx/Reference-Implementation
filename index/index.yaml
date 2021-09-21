@@ -9,6 +9,6 @@ entries:
     name: icr
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel-sandbox/ICR/master/icr-0.1.0.tgz
+    - https://raw.githubusercontent.com/kkumaarx/Reference-Implementation/master/icr-0.1.0.tgz
     version: 0.1.0
 generated: "2021-09-21T12:45:18.855250962+05:30"
