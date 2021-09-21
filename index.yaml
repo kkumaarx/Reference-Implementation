@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  icr:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-21T11:32:55.857100523+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 67215e51339ce191f4d8433a78ed82b82fbffc0ab66a948173d8fe2e7c2e1c36
+    name: icr
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/intel-sandbox/ICR/icr-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-21T11:32:55.855829894+05:30"
